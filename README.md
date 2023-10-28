@@ -1,9 +1,6 @@
 # Kang-Nyepam
 Script Spam sms,wa,call,email 🥵
 
-tutorial
-https://www.mediafire.com/file/ydkox2lontmjus5/vidma_20231020_185109.mp4/file
-
 ```
 Minimal Kasih Star lah su
 ```
