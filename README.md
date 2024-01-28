@@ -14,3 +14,6 @@ cd Kang-Nyepam
 pip install -r requirements.txt
 git pull
 python run.py
+```
+
+# `halo im Dra:)`
