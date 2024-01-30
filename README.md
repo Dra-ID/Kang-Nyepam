@@ -2,7 +2,7 @@
 Script Spam sms,wa,call,email 🥵
 
 ```
-Minimal Kasih Star lah su
+Minimal Kasih Star lah suu
 ```
 # install
 ```python
@@ -16,4 +16,4 @@ git pull
 python run.py
 ```
 
-# `halo im Vindra:)`
+# `halo im Vindra:)'
