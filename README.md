@@ -16,4 +16,4 @@ git pull
 python run.py
 ```
 
-# `halo im Dra:)`
+# `halo im Vindra:)`
